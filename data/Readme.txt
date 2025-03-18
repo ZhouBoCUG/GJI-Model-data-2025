@@ -14,4 +14,4 @@ When the bottom boundary of the well is permeable, a ".1" has been added to the 
 Single-aquifer model simulation results when the bottom boundary of the well is impermeable. Parameter settings in Excel numbering are consistent with Table 2 numbering.
 When the bottom boundary of the well is permeable, a ".1" has been added to the result number.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-See Table 1 for other parameter settings.
+See Table 1 for other parameters settings.
